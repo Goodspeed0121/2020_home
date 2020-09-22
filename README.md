@@ -12,5 +12,5 @@
 
 ![0](zero.png "0")
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/3HcabbNHdgk/two.png)](https://www.youtube.com/watch?v=3HcabbNHdgk "Everything Is AWESOME")
 
